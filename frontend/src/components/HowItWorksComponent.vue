@@ -20,7 +20,7 @@
               <div class="card-bottom">
                 <h3 class="card-title">Link your database</h3>
                 <p class="card-text">
-                  Upload the database that constitutes the background of your research and experiments to Sc.AI’s internal knowledge
+                  Upload the database that constitutes the background of your research and augment with Sc.AI’s internal knowledge
               </p>
             </div>
         </div>
