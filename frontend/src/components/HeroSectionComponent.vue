@@ -27,9 +27,7 @@
         </span></span></button>
         <div class="hero-description fade-in">
           <p class="highlighted-text-source" style="display:none;">
-        Sc.AI develops an
-        <span class="highlight">AI</span>
-        that
+        Sc.AI
         <span class="highlight">automates</span>
         the
         <span class="highlight">scientific
