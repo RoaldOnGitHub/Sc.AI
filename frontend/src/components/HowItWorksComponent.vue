@@ -48,7 +48,7 @@
           <div class="card-bottom">
             <h3 class="card-title">Link to simulation software</h3>
           <p class="card-text">
-            Choose the best simulation software to validate your hypotheses. You can upload your own models or let scAI recommend a third-party model that fits your problem
+            Choose the best simulation software to validate your hypotheses. You can upload your own models or let Sc.AI recommend a third-party model that fits your problem
           </p>
         </div>
       </div>
@@ -62,7 +62,7 @@
           <div class="card-bottom">
             <h3 class="card-title">Simulate your problem</h3>
           <p class="card-text">
-            Test your hypotheses by running computational models. scAI automatically adds machine learning capabilities, generates interfaces, and sets up simulation workflows
+            Test your hypotheses by running computational models. Sc.AI automatically adds machine learning capabilities, generates interfaces, and sets up simulation workflows
           </p>
         </div>
       </div>
