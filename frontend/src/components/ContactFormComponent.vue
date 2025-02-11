@@ -36,7 +36,7 @@
             <img src="@/assets/image/icons/mail.svg" alt="Mail" />
             <div>
               <strong>Send us an email</strong><br />
-             <p>info@project.ai</p>
+             <p>info@projectsc.ai</p>
             </div>
           </div>
 
@@ -52,7 +52,7 @@
             <img src="@/assets/image/icons/location.svg" alt="Location" />
             <div>
               <strong>Our location</strong><br />
-              <p>Mechelsesteenweg 127, Antwerp, Belgium</p>
+              <p>Vaartdijk 22, Tildonk, Belgium</p>
             </div>
           </div>
         </div>
