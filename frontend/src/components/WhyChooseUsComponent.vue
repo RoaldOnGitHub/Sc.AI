@@ -363,7 +363,7 @@ const cards = [
 }
 
 .content-title-subtitle {
-  height: 180px;
+  height: auto;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
