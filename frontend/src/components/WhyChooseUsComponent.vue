@@ -214,7 +214,7 @@ const cards = [
     icon: "/assets/image/icons/valorize-icon.svg",
     alt: "Valorize",
     title: "Valorize your research",
-    text: "scAI provides a seamless interface to your research results and models.",
+    text: "scAI offers a streamlined interface for your research and models, enabling easy access and utilization by others. This boosts your ability to monetize discoveries by defining commercial terms, including open-source, pay-per-use, or customized models",
   },
   {
     icon: "/assets/image/icons/customerbase-icon.svg",
