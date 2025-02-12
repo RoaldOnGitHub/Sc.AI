@@ -25,7 +25,7 @@
           <div class="content-title-subtitle">
           <h3 class="card-title">We’re in it for science</h3>
           <p class="card-text">
-            Sc.AI is driving innovation in scientific research, leveraging AI to accelerate discoveries and breakthroughs, benefiting the global research community
+            ScAI is driving innovation in scientific research, leveraging AI to accelerate discoveries and breakthroughs, benefiting the global research community
           </p>
         </div>
         </div>
@@ -50,7 +50,7 @@
           <div class="content-title-subtitle">
           <h3 class="card-title">Gain access to computing power</h3>
           <p class="card-text">
-            Sc.AI provides easy access to supercomputer infrastructure at economical prices</p>
+            scAI provides easy access to supercomputer infrastructure at economical prices</p>
         </div>
         </div>
 
@@ -62,7 +62,7 @@
           <div class="content-title-subtitle">
           <h3 class="card-title">Valorize your research</h3>
           <p class="card-text">
-            Sc.AI provides a seamless interface to your research results, making it easier for others to access and utilize them and thereby enhancing your potential to monetize your findings. You define the commercial terms, whether it’s open source, pay-per-use, fixed licensing, or another model of your choice</p>
+            scAI offers a streamlined interface for your research and models, enabling easy access and utilization by others. This boosts your ability to monetize discoveries by defining commercial terms, including open-source, pay-per-use, or customized models</p>
         </div>
         </div>
 
@@ -74,7 +74,7 @@
           <div class="content-title-subtitle">
           <h3 class="card-title">Grow your customer base</h3>
           <p class="card-text">
-            For commercial vendors, Sc.AI offers an add-on layer that enhances and simplifies the user interface. This reduces the time and expertise needed to set up simulations, making your products more accessible to a broader user base</p>
+            For commercial vendors, scAI offers an add-on layer that enhances and simplifies the user interface. This reduces the time and expertise needed to set up simulations, making your products more accessible to a broader user base</p>
         </div>
         </div>
         <!-- Карточка #6 -->
@@ -85,7 +85,7 @@
           <div class="content-title-subtitle">
           <h3 class="card-title">Integrated legal and IP management</h3>
           <p class="card-text">
-            When entities connect on the Sc.AI platform, it automatically documents interactions and generates legal contracts, ensuring that your rights and intellectual property are always protected</p>
+            When entities connect on the scAI platform, it automatically documents interactions and generates legal contracts, ensuring that your rights and intellectual property are always protected</p>
         </div>
         </div>
     </div>
@@ -196,7 +196,7 @@ const cards = [
     icon: "/assets/image/icons/science-icon.png",
     alt: "Science",
     title: "We’re in it for science",
-    text: "We’re developing Sc.AI to advance science and innovative breakthroughs for the benefit of all",
+    text: "ScAI is driving innovation in scientific research, leveraging AI to accelerate discoveries and breakthroughs, benefiting the global research community",
   },
   {
     icon: "/assets/image/icons/control-icon.svg",
@@ -214,19 +214,19 @@ const cards = [
     icon: "/assets/image/icons/valorize-icon.svg",
     alt: "Valorize",
     title: "Valorize your research",
-    text: "scAI offers a streamlined interface for your research and models, enabling easy access and utilization by others. This boosts your ability to monetize discoveries by defining commercial terms, including open-source, pay-per-use, or customized models",
+    text: "scAI offers a streamlined interface for your research and models, enabling easy access and utilization by others. This boosts your ability to monetize discoveries by defining commercial terms, including open-source, pay-per-use, or customized models.",
   },
   {
     icon: "/assets/image/icons/customerbase-icon.svg",
     alt: "Customer base",
     title: "Grow your customer base",
-    text: "For commercial vendors, scAI offers an add-on layer that enhances and simplifies the user interface.",
+    text: "For commercial vendors, scAI offers an add-on layer that enhances and simplifies the user interface. This reduces the time and expertise needed to set up simulations, making your products more accessible to a broader user base.",
   },
   {
     icon: "/assets/image/icons/legal-icon.svg",
     alt: "Legal & IP",
     title: "Integrated legal and IP management",
-    text: "When entities connect on the scAI platform, it automatically documents interactions and generates legal contracts.",
+    text: "When entities connect on the scAI platform, it automatically documents interactions and generates legal contracts, ensuring that your rights and intellectual property are always protected.",
   },
 ];
 </script>
@@ -366,7 +366,8 @@ const cards = [
   height: 180px;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: flex-start;
+  gap: 25px;
 }
 
 .cards-carousel {
