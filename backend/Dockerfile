@@ -1,8 +1,5 @@
 FROM php:8.1-fpm-alpine
-
 WORKDIR /var/www/html
-
-# Копируем в backend-контейнер все файлы, в том числе send_mail.php
 COPY . /var/www/html
 
 # Устанавливаем нужные пакеты и настройки (msmtp и т.д.)
@@ -16,3 +13,5 @@ RUN touch /var/log/msmtp.log && chmod 666 /var/log/msmtp.log
 
 EXPOSE 9000
 CMD ["php-fpm"]
+
+
