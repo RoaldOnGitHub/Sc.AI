@@ -32,7 +32,7 @@
             Generate <span class="highlight"> innovative hypotheses</span>
           </h3>
           <p>
-            Pose questions using text prompts to generate new scientific hypotheses, leveraging your own data and scAI’s internal knowledge
+            Pose questions using text prompts to generate new scientific hypotheses, leveraging your own data and Sc.AI’s internal knowledge
           </p>
         </div>
         </div>
@@ -57,7 +57,7 @@
             and <span class="highlight">computational modeling</span>
           </h3>
           <p>
-            Validate hypotheses through computational modeling and machine learning. scAI automatically interfaces with specialized modeling software, enabling rapid simulation of your hypotheses without requiring expert input
+            Validate hypotheses through computational modeling and machine learning. Sc.AI automatically interfaces with specialized modeling software, enabling rapid simulation of your hypotheses without requiring expert input
           </p>
         </div>
         </div>
