@@ -49,7 +49,7 @@
         Together <span class="highlight">with Partners</span>
       </h2>
       <p class="partners-subtitle">
-        scAI is the technical lead of FULL-MAP, a prestigious €20 million<span class="line-break"> research project funded by the European Union.</span>
+        Sc.AI is the technical lead of FULL-MAP, a prestigious €20 million<span class="line-break"> research project funded by the European Union.</span>
       </p>
     </div>
 
