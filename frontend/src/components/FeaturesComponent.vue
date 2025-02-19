@@ -584,6 +584,7 @@ picture {
     font-size: 24px;
     font-weight: 500;
     line-height: 31.2px;
+    text-align: center;
   }
   .feature-right img {
     height: 150px;
@@ -595,14 +596,14 @@ picture {
     height: 125px;
   }
   .feature-screen:nth-child(2) {
-    height: 600px;
+    height: 500px;
     display: flex;
     .feature-left {
       height: 202px;
     }
   }
   .feature-screen:first-child {
-    height: 400px;
+    height: 500px;
   }
   .feature-screen-content, .feature-screen-content.reverse {
     height: 322px;
