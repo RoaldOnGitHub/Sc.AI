@@ -537,15 +537,15 @@ picture {
     height: 178px;
   }
   .feature-screen:last-child{
-    height: 400px;
+    height: 500px;
     border-radius: 30px;
   }
   .feature-screen:nth-child(2) {
-    height: 470px;
+    height: 550px;
     border-radius: 30px;
   }
   .feature-screen:first-child {
-    height: 440px;
+    height: 500px;
     border-radius: 30px;
   }
   .feature-screen-content, .feature-screen-content.reverse {
