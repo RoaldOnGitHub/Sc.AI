@@ -44,7 +44,7 @@
             <img src="@/assets/image/icons/phone.svg" alt="Phone" />
             <div>
               <strong>Give us a call</strong><br />
-              <p>+32 472 693 864</p>
+              <p>+32 472 693 854</p>
             </div>
           </div>
 
