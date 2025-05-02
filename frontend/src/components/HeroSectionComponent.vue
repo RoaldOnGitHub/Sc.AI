@@ -32,7 +32,7 @@
         the
         <span class="highlight">scientific
         research</span> process
-        aiming to drastically
+        to drastically
         <span class="highlight">accelerate</span>
         the
         discovery and valorization
