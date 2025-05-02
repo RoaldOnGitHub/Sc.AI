@@ -32,7 +32,7 @@
             Generate <span class="highlight"> innovative hypotheses</span>
           </h3>
           <p>
-            Pose questions using text prompts to generate new scientific hypotheses, leveraging your own data and scAI’s internal knowledge
+            Pose questions to generate new scientific hypotheses — combining your own data with Sc.AI’s internal scientific knowledge.
           </p>
         </div>
         </div>
