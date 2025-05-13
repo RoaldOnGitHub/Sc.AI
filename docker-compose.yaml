@@ -12,7 +12,7 @@ services:
     volumes:
       - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf:ro
         - /etc/ssl/projectsc_ai/fullchain.crt:/etc/nginx/ssl/fullchain.crt:ro
-        - /etc/ssl/projectsc_ai/projectsc_ai.key:/etc/nginx/ssl/projectsc_ai.key:ro
+        - /etc/ssl/projectsc_ai/projectsc_ai.key:/etc/nginx/ssl/projectsc.ai.key:ro
     depends_on:
       - backend
 
