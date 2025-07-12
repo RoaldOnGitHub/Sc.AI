@@ -53,8 +53,8 @@
         <div class="feature-left">
           <div class="feature-left-content">
           <h3>
-            Automatically generate
-            <span class="highlight">simulation</span> workflows
+            Automatically <span class="highlight">generate
+            simulation</span> workflows
           </h3>
           <p>
             Validate hypotheses through computational modeling and machine learning. scAI automatically interfaces with specialized modeling tools and adds machine learning capabilies, enabling rapid simulation of your hypotheses without requiring expert input
