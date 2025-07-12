@@ -57,7 +57,7 @@
             simulation</span> workflows
           </h3>
           <p>
-            Validate hypotheses through computational modeling and machine learning. scAI automatically interfaces with specialized modeling tools and adds machine learning capabilies, enabling rapid simulation of your hypotheses without requiring expert input
+            Validate hypotheses through computational modeling. Sc.AI automatically builds interfaces and adds machine learning capabilies, enabling rapid simulation of your hypotheses without requiring expert input
           </p>
         </div>
         </div>
